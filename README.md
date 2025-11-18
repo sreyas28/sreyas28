@@ -36,8 +36,7 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
 ## 🏍️ Fun Side
-
-![Biker](https://img.shields.io/badge/Biker-000000?style=for-the-badge&logo=harley-davidson&logoColor=orange)
+When I’m not coding, you’ll probably find me riding bikes and exploring new roads 🌍.
 
 
 ## 📫 Connect with Me
