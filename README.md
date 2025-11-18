@@ -14,8 +14,10 @@
 - 🏗️ Automating workflows with Jenkins
 
 ## 📊 GitHub Stats
-![Sreyas' GitHub stats](https://github-readme-stats.vercel.app/api?username=sreyas123&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreyas123&layout=compact&theme=radical)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## 🏍️ Fun Fact
 When I’m not coding, you’ll probably find me riding bikes and exploring new roads 🌍.
