@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Sreyas 👋
 
-<!--
-**sreyas28/sreyas28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Tech Stack
+- **Languages:** Java ☕ | JavaScript ⚡
+- **Frameworks & Libraries:** Node.js | React | Vite | Spring Boot
+- **Databases:** MongoDB 🍃
+- **DevOps & Tools:** Docker 🐳 | Git | GitHub | Jenkins | Trivy
+- **Competitive Programming:** LeetCoder 🧩
 
-Here are some ideas to get you started:
+## 🛠️ What I Do
+- 🔧 Building full-stack applications
+- 🚀 Exploring DevOps pipelines
+- 🛡️ Securing apps with Trivy
+- 🏗️ Automating workflows with Jenkins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Sreyas' GitHub stats](https://github-readme-stats.vercel.app/api?username=sreyas123&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreyas123&layout=compact&theme=radical)
+
+## 🏍️ Fun Fact
+When I’m not coding, you’ll probably find me riding bikes and exploring new roads 🌍.
+
+## 📫 Connect with Me
+- [LinkedIn](https://linkedin.com/in/sreyas-sharma-51736a194)
