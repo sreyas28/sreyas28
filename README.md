@@ -3,7 +3,7 @@
 ## 💻 Tech Stack
 - **Languages:** Java ☕ | JavaScript ⚡
 - **Frameworks & Libraries:** Node.js | React | Vite | Spring Boot
-- **Databases:** MongoDB 🍃
+- **Databases:** MongoDB 🍃 | MySQL
 - **DevOps & Tools:** Docker 🐳 | Git | GitHub | Jenkins | Trivy
 - **Competitive Programming:** LeetCoder 🧩
 
