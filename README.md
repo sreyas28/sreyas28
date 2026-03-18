@@ -7,7 +7,7 @@
 ## 💻 Tech Arsenal  
 I love crafting scalable solutions and experimenting with modern tech stacks:  
 
-- **Languages:** Java ☕ | JavaScript ⚡  
+- **Languages:** Java ☕ | JavaScript ⚡ | Rust
 - **Frameworks & Libraries:** Node.js | React | Vite | Spring Boot  
 - **Databases:** MongoDB 🍃 | MySQL  
 - **DevOps & Tools:** Docker 🐳 | Git | GitHub | Jenkins | Trivy  
