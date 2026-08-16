@@ -51,7 +51,8 @@ I love crafting scalable solutions and experimenting with modern tech stacks:
 Sharpening problem-solving skills one puzzle at a time:  
 <p align="center">  
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>  
-</p>  
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>  
+</p>
 
 ---
 
